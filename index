@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeuraforgeAI · go.botcaza.ai</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>🤖 NeuraforgeAI</h1>
+        <p>Bienvenido a la Mini App de go.botcaza.ai</p>
+        <button onclick="saludar()">Saludar</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
